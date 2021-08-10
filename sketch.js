@@ -15,7 +15,7 @@ var wall1,wall2,wall3,wall4,wall5,wall6,wall7,wall8,wall9,wall10,wall11,wall12,w
 
 var gameState = "STAGE1";
 var shield = 1000, shieldVisibility=255;;
-var score = 0;
+var score = 100;
 
 function  preload(){
   //loading all the images
